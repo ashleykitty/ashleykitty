@@ -12,7 +12,7 @@
 
 I'm a graphic designer working in the freelancing community.
 
-I'm 16 and have over 7 years of experience in graphic design and UI/UX. I enjoy creating with different styles, and being creative :D
+I'm 16 and have over 7 years of experience in graphic design and UI/UX, also learning blender & blockbench I enjoy creating with different styles, and being creative :D
 
 I'm currently aiming to study Graphic Design or Cyber Security in the Netherlands.
 
