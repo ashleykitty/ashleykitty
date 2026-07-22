@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://cdn3.emoji.gg/emojis/3516-scubbacat.gif" width="42">
+  <img src="scubbacat.gif" width="42">
   Heyy, I'm Ashley!
 </h1>
 
