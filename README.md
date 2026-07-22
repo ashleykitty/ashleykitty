@@ -1,19 +1,27 @@
-<picture>
-  <source
-    srcset="https://github-stats-extended.vercel.app/api?username=ashleykitty&show_icons=true&theme=catppuccin_mocha&hide_border=true"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=ashleykitty&show_icons=true&theme=catppuccin_mocha&hide_border=true"
-    alt="GitHub Stats"
-  />
-</picture>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ashleykitty&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="GitHub Stats" />
+</p>
 
-## Hey, Im Ashley!
+<h1 align="center">
+  <img src="https://cdn3.emoji.gg/emojis/3516-scubbacat.gif" width="42">
+  Heyy, I'm Ashley!
+</h1>
 
-I'm a graphic designer working in the freelancing community.
+<p align="center">
+  🇳🇱 Netherlands • Graphic Designer • Beta Tester
+</p>
 
-I'm 16 and have over 7 years of experience in graphic design and UI/UX, also learning blender & blockbench I enjoy creating with different styles, and being creative :D
+<p align="center">
+  Graphic designer with 7+ years of experience, mainly working in the freelancing community.
+  I enjoy creating UI/UX, branding, and experimenting with different art styles.
+</p>
 
-I'm currently aiming to study Graphic Design or Cyber Security in the Netherlands.
+<p align="center">
+  Currently learning Blender and Blockbench, while also contributing to projects through beta testing,
+  bug reporting, and feedback whenever I can.
+</p>
 
-I also beta test projects, report bugs, and contribute to side projects when I can.
+<p align="center">
+  Outside of design, I like making Minecraft-related projects, exploring new software,
+  and learning new skills. I'm planning to study Graphic Design or Cyber Security in the Netherlands.
+</p>
